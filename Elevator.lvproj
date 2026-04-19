@@ -12,14 +12,20 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Controls" Type="Folder"/>
 		<Item Name="Support VIs" Type="Folder">
-			<Item Name="Check Loop Error.vi" Type="VI" URL="../CLD - Elevator/Support VIs/Check Loop Error.vi"/>
-			<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../CLD - Elevator/Support VIs/Error Handler - Event Handling Loop.vi"/>
-			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../../Users/ptros/OneDrive/Documents/LabVIEW Data/Untitled Project 5/support/Error Handler - Message Handling Loop.vi"/>
-			<Item Name="Message Queue.lvlib" Type="Library" URL="../../Users/ptros/OneDrive/Documents/LabVIEW Data/Untitled Project 5/support/Message Queue/Message Queue.lvlib"/>
-			<Item Name="User Event - Stop.lvlib" Type="Library" URL="../../Users/ptros/OneDrive/Documents/LabVIEW Data/Untitled Project 5/support/User Event - Stop/User Event - Stop.lvlib"/>
+			<Item Name="Message Queue" Type="Folder">
+				<Item Name="Message Queue.lvlib" Type="Library" URL="../Support VIs/Message Queue/Message Queue.lvlib"/>
+			</Item>
+			<Item Name="User Event - Stop" Type="Folder">
+				<Item Name="User Event - Stop.lvlib" Type="Library" URL="../Support VIs/User Event - Stop/User Event - Stop.lvlib"/>
+			</Item>
+			<Item Name="Check Loop Error.vi" Type="VI" URL="../Support VIs/Check Loop Error.vi"/>
+			<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../Support VIs/Error Handler - Event Handling Loop.vi"/>
+			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../Support VIs/Error Handler - Message Handling Loop.vi"/>
 		</Item>
+		<Item Name="Call_Elevator.ctl" Type="VI" URL="../Controls/Call_Elevator.ctl"/>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="Up_Down_Enum.ctl" Type="VI" URL="../Controls/Up_Down_Enum.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
