@@ -24,8 +24,13 @@
 			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../Support VIs/Error Handler - Message Handling Loop.vi"/>
 		</Item>
 		<Item Name="Call_Elevator.ctl" Type="VI" URL="../Controls/Call_Elevator.ctl"/>
+		<Item Name="Car_and_Hall_Calls.ctl" Type="VI" URL="../Controls/Car_and_Hall_Calls.ctl"/>
+		<Item Name="Door_Status_Enum.ctl" Type="VI" URL="../Controls/Door_Status_Enum.ctl"/>
+		<Item Name="Floor_Status.ctl" Type="VI" URL="../Controls/Floor_Status.ctl"/>
+		<Item Name="Hall_Calls_Status.ctl" Type="VI" URL="../Controls/Hall_Calls_Status.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Up_Down_Enum.ctl" Type="VI" URL="../Controls/Up_Down_Enum.ctl"/>
+		<Item Name="Motion_Status_Enum.ctl" Type="VI" URL="../Controls/Motion_Status_Enum.ctl"/>
+		<Item Name="Occupy_Status.ctl" Type="VI" URL="../Controls/Occupy_Status.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
