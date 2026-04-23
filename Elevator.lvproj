@@ -12,6 +12,16 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Car_Calls.ctl" Type="VI" URL="../Controls/Car_Calls.ctl"/>
+			<Item Name="Car_Calls_Status.ctl" Type="VI" URL="../Controls/Car_Calls_Status.ctl"/>
+			<Item Name="Door_Status_Enum.ctl" Type="VI" URL="../Controls/Door_Status_Enum.ctl"/>
+			<Item Name="Floor_Status.ctl" Type="VI" URL="../Controls/Floor_Status.ctl"/>
+			<Item Name="Hall_Calls.ctl" Type="VI" URL="../Controls/Hall_Calls.ctl"/>
+			<Item Name="Hall_Calls_Status.ctl" Type="VI" URL="../Controls/Hall_Calls_Status.ctl"/>
+			<Item Name="Motion_Status_Enum.ctl" Type="VI" URL="../Controls/Motion_Status_Enum.ctl"/>
+			<Item Name="Occupy_Status.ctl" Type="VI" URL="../Controls/Occupy_Status.ctl"/>
+		</Item>
 		<Item Name="Support VIs" Type="Folder">
 			<Item Name="Message Queue" Type="Folder">
 				<Item Name="Message Queue.lvlib" Type="Library" URL="../Support VIs/Message Queue/Message Queue.lvlib"/>
@@ -23,14 +33,8 @@
 			<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../Support VIs/Error Handler - Event Handling Loop.vi"/>
 			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../Support VIs/Error Handler - Message Handling Loop.vi"/>
 		</Item>
-		<Item Name="Call_Elevator.ctl" Type="VI" URL="../Controls/Call_Elevator.ctl"/>
-		<Item Name="Car_and_Hall_Calls.ctl" Type="VI" URL="../Controls/Car_and_Hall_Calls.ctl"/>
-		<Item Name="Door_Status_Enum.ctl" Type="VI" URL="../Controls/Door_Status_Enum.ctl"/>
-		<Item Name="Floor_Status.ctl" Type="VI" URL="../Controls/Floor_Status.ctl"/>
-		<Item Name="Hall_Calls_Status.ctl" Type="VI" URL="../Controls/Hall_Calls_Status.ctl"/>
+		<Item Name="Elevator_Fleet.ctl" Type="VI" URL="../Controls/Elevator_Fleet.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Motion_Status_Enum.ctl" Type="VI" URL="../Controls/Motion_Status_Enum.ctl"/>
-		<Item Name="Occupy_Status.ctl" Type="VI" URL="../Controls/Occupy_Status.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
