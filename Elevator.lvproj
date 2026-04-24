@@ -43,6 +43,8 @@
 		<Item Name="Open_Doors.vi" Type="VI" URL="../Open_Doors.vi"/>
 		<Item Name="Process_New_Calls.vi" Type="VI" URL="../Process_New_Calls.vi"/>
 		<Item Name="Score_Elevators.vi" Type="VI" URL="../Score_Elevators.vi"/>
+		<Item Name="Select_Elevator_From_Fleet.vi" Type="VI" URL="../Select_Elevator_From_Fleet.vi"/>
+		<Item Name="Set_Target_Duration.vi" Type="VI" URL="../Set_Target_Duration.vi"/>
 		<Item Name="Start_Idle_Elevator.vi" Type="VI" URL="../Start_Idle_Elevator.vi"/>
 		<Item Name="Timer.vi" Type="VI" URL="../Timer.vi"/>
 		<Item Name="Timer_Enum.ctl" Type="VI" URL="../Controls/Timer_Enum.ctl"/>
