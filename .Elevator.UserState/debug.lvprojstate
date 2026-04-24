@@ -1,6 +1,19 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Dispatch_Hall_Calls.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="299"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Main.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -32,9 +45,19 @@
           <SignalUID value="3214"/>
           <SignalUID value="1534"/>
           <SignalUID value="1429"/>
-          <SignalUID value="968"/>
-          <SignalUID value="917"/>
-          <SignalUID value="3862"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Score_Elevators.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2094"/>
         </Generic>
       </Probes>
     </VI>
