@@ -43,6 +43,8 @@
 		<Item Name="Process_New_Calls.vi" Type="VI" URL="../Process_New_Calls.vi"/>
 		<Item Name="Score_Elevators.vi" Type="VI" URL="../Score_Elevators.vi"/>
 		<Item Name="Start_Idle_Elevator.vi" Type="VI" URL="../Start_Idle_Elevator.vi"/>
+		<Item Name="Timer.vi" Type="VI" URL="../Timer.vi"/>
+		<Item Name="Timer_Enum.ctl" Type="VI" URL="../Controls/Timer_Enum.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

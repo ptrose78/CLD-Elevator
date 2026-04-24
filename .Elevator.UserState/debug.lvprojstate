@@ -47,6 +47,10 @@
           <SignalUID value="1429"/>
           <SignalUID value="2140"/>
           <SignalUID value="228"/>
+          <SignalUID value="4015"/>
+          <SignalUID value="7060"/>
+          <SignalUID value="7216"/>
+          <SignalUID value="4310"/>
         </Generic>
       </Probes>
     </VI>
@@ -60,6 +64,21 @@
       <Probes>
         <Generic>
           <SignalUID value="2094"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Timer.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="690"/>
+          <SignalUID value="711"/>
+          <SignalUID value="805"/>
         </Generic>
       </Probes>
     </VI>
