@@ -40,6 +40,7 @@
 		<Item Name="Is_Idle.vi" Type="VI" URL="../Is_Idle.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Move_Elevator.vi" Type="VI" URL="../Move_Elevator.vi"/>
+		<Item Name="Open_Doors.vi" Type="VI" URL="../Open_Doors.vi"/>
 		<Item Name="Process_New_Calls.vi" Type="VI" URL="../Process_New_Calls.vi"/>
 		<Item Name="Score_Elevators.vi" Type="VI" URL="../Score_Elevators.vi"/>
 		<Item Name="Start_Idle_Elevator.vi" Type="VI" URL="../Start_Idle_Elevator.vi"/>
