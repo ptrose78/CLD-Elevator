@@ -33,6 +33,7 @@
 			<Item Name="Error Handler - Event Handling Loop.vi" Type="VI" URL="../Support VIs/Error Handler - Event Handling Loop.vi"/>
 			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../Support VIs/Error Handler - Message Handling Loop.vi"/>
 		</Item>
+		<Item Name="Check_Elevator.vi" Type="VI" URL="../Check_Elevator.vi"/>
 		<Item Name="Dispatch_Hall_Calls.vi" Type="VI" URL="../Dispatch_Hall_Calls.vi"/>
 		<Item Name="Elevator_Fleet.ctl" Type="VI" URL="../Controls/Elevator_Fleet.ctl"/>
 		<Item Name="Find_Current_Floor.vi" Type="VI" URL="../Find_Current_Floor.vi"/>
@@ -41,6 +42,7 @@
 		<Item Name="Move_Elevator.vi" Type="VI" URL="../Move_Elevator.vi"/>
 		<Item Name="Process_New_Calls.vi" Type="VI" URL="../Process_New_Calls.vi"/>
 		<Item Name="Score_Elevators.vi" Type="VI" URL="../Score_Elevators.vi"/>
+		<Item Name="Start_Idle_Elevator.vi" Type="VI" URL="../Start_Idle_Elevator.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
