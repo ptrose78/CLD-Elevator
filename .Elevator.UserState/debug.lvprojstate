@@ -1,6 +1,20 @@
 <Configuration>
   <Target name="My Computer">
     <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Check_Elevator.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="415"/>
+          <SignalUID value="2623"/>
+        </Generic>
+      </Probes>
+    </VI>
     <VI name="Dispatch_Hall_Calls.vi">
       <Breakpoints>
         <NodeIndexes>
@@ -11,6 +25,21 @@
       <Probes>
         <Generic>
           <SignalUID value="299"/>
+          <SignalUID value="3181"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Find_Current_Floor.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="687"/>
+          <SignalUID value="84"/>
         </Generic>
       </Probes>
     </VI>
@@ -19,6 +48,7 @@
         <NodeIndexes>
         </NodeIndexes>
         <SignalIndexes>
+          <Signal index="4547" enabled="1"/>
         </SignalIndexes>
       </Breakpoints>
       <Probes>
@@ -51,6 +81,19 @@
           <SignalUID value="7060"/>
           <SignalUID value="7216"/>
           <SignalUID value="4310"/>
+          <SignalUID value="854"/>
+          <SignalUID value="24"/>
+          <SignalUID value="1850"/>
+          <SignalUID value="1555"/>
+          <SignalUID value="4828"/>
+          <SignalUID value="1204"/>
+          <SignalUID value="5062"/>
+          <SignalUID value="3972"/>
+          <SignalUID value="397"/>
+          <SignalUID value="6984"/>
+          <SignalUID value="876"/>
+          <SignalUID value="4547"/>
+          <SignalUID value="950"/>
         </Generic>
       </Probes>
     </VI>

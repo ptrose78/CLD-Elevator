@@ -34,14 +34,17 @@
 			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../Support VIs/Error Handler - Message Handling Loop.vi"/>
 		</Item>
 		<Item Name="Check_Elevator.vi" Type="VI" URL="../Check_Elevator.vi"/>
+		<Item Name="Close_Doors.vi" Type="VI" URL="../Close_Doors.vi"/>
 		<Item Name="Dispatch_Hall_Calls.vi" Type="VI" URL="../Dispatch_Hall_Calls.vi"/>
 		<Item Name="Elevator_Fleet.ctl" Type="VI" URL="../Controls/Elevator_Fleet.ctl"/>
 		<Item Name="Find_Current_Floor.vi" Type="VI" URL="../Find_Current_Floor.vi"/>
+		<Item Name="Is_Active_Call.vi" Type="VI" URL="../Is_Active_Call.vi"/>
 		<Item Name="Is_Idle.vi" Type="VI" URL="../Is_Idle.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Move_Elevator.vi" Type="VI" URL="../Move_Elevator.vi"/>
 		<Item Name="Open_Doors.vi" Type="VI" URL="../Open_Doors.vi"/>
 		<Item Name="Process_New_Calls.vi" Type="VI" URL="../Process_New_Calls.vi"/>
+		<Item Name="Remove_Current_Active_Call.vi" Type="VI" URL="../Remove_Current_Active_Call.vi"/>
 		<Item Name="Score_Elevators.vi" Type="VI" URL="../Score_Elevators.vi"/>
 		<Item Name="Select_Elevator_From_Fleet.vi" Type="VI" URL="../Select_Elevator_From_Fleet.vi"/>
 		<Item Name="Set_Target_Duration.vi" Type="VI" URL="../Set_Target_Duration.vi"/>
