@@ -11,7 +11,6 @@
       <Probes>
         <Generic>
           <SignalUID value="415"/>
-          <SignalUID value="2623"/>
         </Generic>
       </Probes>
     </VI>
@@ -25,7 +24,6 @@
       <Probes>
         <Generic>
           <SignalUID value="299"/>
-          <SignalUID value="3181"/>
         </Generic>
       </Probes>
     </VI>
@@ -40,6 +38,7 @@
         <Generic>
           <SignalUID value="687"/>
           <SignalUID value="84"/>
+          <SignalUID value="994"/>
         </Generic>
       </Probes>
     </VI>
@@ -91,29 +90,14 @@
           <SignalUID value="1429"/>
           <SignalUID value="2140"/>
           <SignalUID value="228"/>
-          <SignalUID value="4015"/>
           <SignalUID value="7060"/>
           <SignalUID value="7216"/>
-          <SignalUID value="4310"/>
-          <SignalUID value="854"/>
           <SignalUID value="5062"/>
           <SignalUID value="507"/>
-          <SignalUID value="6984"/>
-        </Generic>
-      </Probes>
-    </VI>
-    <VI name="Move_Elevator.vi">
-      <Breakpoints>
-        <NodeIndexes>
-        </NodeIndexes>
-        <SignalIndexes>
-        </SignalIndexes>
-      </Breakpoints>
-      <Probes>
-        <Generic>
-          <SignalUID value="658"/>
-          <SignalUID value="329"/>
-          <SignalUID value="3143"/>
+          <SignalUID value="4792"/>
+          <SignalUID value="1886"/>
+          <SignalUID value="3602"/>
+          <SignalUID value="250"/>
         </Generic>
       </Probes>
     </VI>
@@ -163,6 +147,9 @@
       <Probes>
         <Generic>
           <SignalUID value="2094"/>
+          <SignalUID value="152"/>
+          <SignalUID value="3633"/>
+          <SignalUID value="3609"/>
         </Generic>
       </Probes>
     </VI>

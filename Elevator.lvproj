@@ -48,6 +48,10 @@
 		<Item Name="Remove_Current_Active_Car_Call.vi" Type="VI" URL="../Remove_Current_Active_Car_Call.vi"/>
 		<Item Name="Remove_Current_Active_Hall_Call.vi" Type="VI" URL="../Remove_Current_Active_Hall_Call.vi"/>
 		<Item Name="Score_Elevators.vi" Type="VI" URL="../Score_Elevators.vi"/>
+		<Item Name="Score_For_Active_Calls.vi" Type="VI" URL="../Score_For_Active_Calls.vi"/>
+		<Item Name="Score_For_Direction.vi" Type="VI" URL="../Score_For_Direction.vi"/>
+		<Item Name="Score_For_Door.vi" Type="VI" URL="../Score_For_Door.vi"/>
+		<Item Name="Score_For_Position.vi" Type="VI" URL="../Score_For_Position.vi"/>
 		<Item Name="Select_Elevator_From_Fleet.vi" Type="VI" URL="../Select_Elevator_From_Fleet.vi"/>
 		<Item Name="Set_Target_Duration.vi" Type="VI" URL="../Set_Target_Duration.vi"/>
 		<Item Name="Start_Idle_Elevator.vi" Type="VI" URL="../Start_Idle_Elevator.vi"/>
