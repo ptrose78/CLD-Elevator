@@ -98,6 +98,7 @@
           <SignalUID value="854"/>
           <SignalUID value="5062"/>
           <SignalUID value="507"/>
+          <SignalUID value="6984"/>
         </Generic>
       </Probes>
     </VI>
@@ -132,6 +133,23 @@
           <SignalUID value="3259"/>
           <SignalUID value="3075"/>
           <SignalUID value="2592"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Remove_Current_Active_Hall_Call.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2813"/>
+          <SignalUID value="2662"/>
+          <SignalUID value="2669"/>
+          <SignalUID value="2488"/>
+          <SignalUID value="1701"/>
         </Generic>
       </Probes>
     </VI>

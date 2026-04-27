@@ -38,6 +38,7 @@
 		<Item Name="Dispatch_Hall_Calls.vi" Type="VI" URL="../Dispatch_Hall_Calls.vi"/>
 		<Item Name="Elevator_Fleet.ctl" Type="VI" URL="../Controls/Elevator_Fleet.ctl"/>
 		<Item Name="Find_Current_Floor.vi" Type="VI" URL="../Find_Current_Floor.vi"/>
+		<Item Name="Hall_Floor.ctl" Type="VI" URL="../Controls/Hall_Floor.ctl"/>
 		<Item Name="Is_Active_Call.vi" Type="VI" URL="../Is_Active_Call.vi"/>
 		<Item Name="Is_Idle.vi" Type="VI" URL="../Is_Idle.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
