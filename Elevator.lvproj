@@ -34,12 +34,14 @@
 			<Item Name="Error Handler - Message Handling Loop.vi" Type="VI" URL="../Support VIs/Error Handler - Message Handling Loop.vi"/>
 		</Item>
 		<Item Name="Check_Elevator.vi" Type="VI" URL="../Check_Elevator.vi"/>
+		<Item Name="Check_Timer.vi" Type="VI" URL="../Check_Timer.vi"/>
 		<Item Name="Close_Doors.vi" Type="VI" URL="../Close_Doors.vi"/>
 		<Item Name="Dispatch_Hall_Calls.vi" Type="VI" URL="../Dispatch_Hall_Calls.vi"/>
 		<Item Name="Elevator_Fleet.ctl" Type="VI" URL="../Controls/Elevator_Fleet.ctl"/>
 		<Item Name="Find_Current_Floor.vi" Type="VI" URL="../Find_Current_Floor.vi"/>
 		<Item Name="Hall_Floor.ctl" Type="VI" URL="../Controls/Hall_Floor.ctl"/>
 		<Item Name="Is_Active_Call.vi" Type="VI" URL="../Is_Active_Call.vi"/>
+		<Item Name="Is_Elevator_Move.vi" Type="VI" URL="../Is_Elevator_Move.vi"/>
 		<Item Name="Is_Idle.vi" Type="VI" URL="../Is_Idle.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Move_Elevator.vi" Type="VI" URL="../Move_Elevator.vi"/>
@@ -57,6 +59,7 @@
 		<Item Name="Start_Idle_Elevator.vi" Type="VI" URL="../Start_Idle_Elevator.vi"/>
 		<Item Name="Timer.vi" Type="VI" URL="../Timer.vi"/>
 		<Item Name="Timer_Enum.ctl" Type="VI" URL="../Controls/Timer_Enum.ctl"/>
+		<Item Name="Write_To_File.vi" Type="VI" URL="../Write_To_File.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

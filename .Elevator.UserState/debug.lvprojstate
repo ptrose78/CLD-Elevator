@@ -24,6 +24,7 @@
       <Probes>
         <Generic>
           <SignalUID value="299"/>
+          <SignalUID value="2947"/>
         </Generic>
       </Probes>
     </VI>
@@ -51,9 +52,6 @@
       </Breakpoints>
       <Probes>
         <Generic>
-          <SignalUID value="2126"/>
-          <SignalUID value="2143"/>
-          <SignalUID value="1278"/>
         </Generic>
       </Probes>
     </VI>
@@ -94,10 +92,10 @@
           <SignalUID value="7216"/>
           <SignalUID value="5062"/>
           <SignalUID value="507"/>
-          <SignalUID value="4792"/>
-          <SignalUID value="1886"/>
-          <SignalUID value="3602"/>
           <SignalUID value="250"/>
+          <SignalUID value="1039"/>
+          <SignalUID value="4413"/>
+          <SignalUID value="6102"/>
         </Generic>
       </Probes>
     </VI>
@@ -112,11 +110,6 @@
         <Generic>
           <SignalUID value="1944"/>
           <SignalUID value="1024"/>
-          <SignalUID value="868"/>
-          <SignalUID value="978"/>
-          <SignalUID value="3259"/>
-          <SignalUID value="3075"/>
-          <SignalUID value="2592"/>
         </Generic>
       </Probes>
     </VI>
@@ -150,6 +143,24 @@
           <SignalUID value="152"/>
           <SignalUID value="3633"/>
           <SignalUID value="3609"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Start_Idle_Elevator.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1313"/>
+          <SignalUID value="1410"/>
+          <SignalUID value="744"/>
+          <SignalUID value="705"/>
+          <SignalUID value="1709"/>
+          <SignalUID value="1510"/>
         </Generic>
       </Probes>
     </VI>
